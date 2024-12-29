@@ -1,7 +1,7 @@
 # Largest-Polyhedra
 
-## Contents
-- [Introduction][#Intro]
-- [Code][#Code]
+## Introduction
+
+## Code explanation
 
 ## Further doings
