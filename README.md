@@ -2,7 +2,7 @@
 
 ## Problem Statement
 The aim of this project is to find numerically the n-vertex polyhedra with the largest volume, as well as the one with the most area. Both of these geometrical bodies are within the unit sphere.
-The problem of n = 8 is specially considered as the motivation was a paper from 1962 by Donald W. Grace.
+The problem of n = 8 is specially considered as the motivation is the paper Search For Largest Polyhedra from 1962 by Donald W. Grace.
 
 ## Results
 The known value for the volume of the largest 8-vertex polyhedra (V = 1.81570) is succesfully reached to at least 3 decimal places.
