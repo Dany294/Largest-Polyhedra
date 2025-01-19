@@ -13,5 +13,5 @@ Trials for grater values of n also appear relatively close to other results (for
 Some improvements that can be done are:
  - Fixing one point so the search becomes faster (only n-1 points will be being perturbated)
 
-
+## Credits
 This project was done in collaboration with Jimena Campos and Hancel Borrego, at the time, students from the Universidad de Colima.
